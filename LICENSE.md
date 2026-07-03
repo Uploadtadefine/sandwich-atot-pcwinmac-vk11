@@ -1,4 +1,4 @@
-# 
+# 自定义 sandwich attack bot 预设 Mac OS版 | 原生 sandwich attack bot 预设 PC Windows版。集成 价格追踪 和 警报通知，跨平台性能最大化。
 
 
 
